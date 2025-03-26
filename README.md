@@ -36,7 +36,7 @@ python transient_extractor.py --input "DrumBreak.wav" --output "Transients" --le
 ```
 
 # Requires
-You'll need [SoX]https://github.com/chirlu/sox] installed to use the --syx flag to convert files to .syx files for midi transfer. 
+You'll need [SoX](https://github.com/chirlu/sox) installed to use the --syx flag to convert files to .syx files for midi transfer. 
 Install with your Linux or Mac package manager or [SoX Download](https://sourceforge.net/projects/sox/) for Windows.
 
 ### Command Line Arguments

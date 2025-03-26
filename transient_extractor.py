@@ -242,7 +242,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--plot",
         action="store_true",
-        help="Plot the detected transients on top of the waveform.",
+        help="Plot the detected transients on top of the waveform. Using this with multiple files will plot EACH file consecutively.",
     )
 
     args = parser.parse_args()
